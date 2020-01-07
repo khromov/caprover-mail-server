@@ -1,4 +1,4 @@
  {
   "schemaVersion": 2,
-  "templateId": "bytemark/smtp:latest"
+  "imageName": "bytemark/smtp:latest"
  }
